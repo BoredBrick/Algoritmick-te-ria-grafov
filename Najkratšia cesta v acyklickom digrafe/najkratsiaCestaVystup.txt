@@ -1,0 +1,1 @@
+Výsledné t pre všetky dosiahnutelné vrcholy z vrchola 1{9: 15, 26: 36, 35: 43}Vysledné x pre všetky dosiahnutelné vrcholy z vrchola 1{9: 1, 26: 1, 35: 1}
